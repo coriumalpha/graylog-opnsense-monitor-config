@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+*.token
+*.pcap
+*.pcapng
+*.zip
+graylog-opnsense-snapshot-*/
+backup-*/
