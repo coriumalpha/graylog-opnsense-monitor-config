@@ -1,0 +1,11 @@
+network,zone
+10.10.1.0/24,AP-Internal
+10.10.10.0/24,Trusted
+10.10.15.0/24,Work
+10.10.30.0/24,IoT
+10.10.40.0/24,Edge
+10.10.88.0/24,Media
+10.10.99.0/24,Management
+10.10.240.0/24,Hypervisor
+10.20.0.0/24,Remote-Site
+10.30.100.0/24,OpenVPN-Tunnel
